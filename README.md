@@ -8,7 +8,7 @@ Este projeto é um **template reutilizável e escalável** para criação de apl
 
 ```
 
-my_desktop_app_template/
+template_desktopapp/
 ├── main.py                  # Ponto de entrada do aplicativo
 ├── app/
 │   ├── **init**.py
@@ -32,7 +32,7 @@ my_desktop_app_template/
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/my_desktop_app_template.git
+git clone https://github.com/luizpontesesquivel/template_desktopapp.git
 cd my_desktop_app_template
 ````
 
