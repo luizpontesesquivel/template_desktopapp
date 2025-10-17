@@ -1,0 +1,8 @@
+{
+    "app_name": "Template Desktop App",
+    "version": "1.0.0",
+    "window": {
+        "width": 800,
+        "height": 600
+    }
+}

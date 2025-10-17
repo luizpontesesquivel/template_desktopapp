@@ -7,20 +7,19 @@ Este projeto é um **template reutilizável e escalável** para criação de apl
 ## 📁 Estrutura do Projeto
 
 ```
-
 template_desktopapp/
-├── main.py                  # Ponto de entrada do aplicativo
+├── main.py
 ├── app/
-│   ├── **init**.py
-│   ├── core.py              # Inicialização principal da aplicação
-│   ├── ui_main.py           # (Opcional) Interface gerada por Qt Designer
+│   ├── __init__.py
+│   ├── core.py
+│   ├── ui_main.py
 │   ├── controllers/
 │   │   └── main_controller.py
 │   └── views/
-│       └── main_window.py   # Janela principal (QMainWindow)
-├── resources/               # Ícones, imagens, arquivos .qrc
+│       └── main_window.py
+├── resources/
 ├── config/
-│   └── settings.json        # Configurações externas
+│   └── settings.json
 └── README.md
 
 ````
